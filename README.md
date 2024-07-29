@@ -23,7 +23,8 @@ Deux fichiers :
  - main.py : pour lancer le modèle et changer les moraines attribuées à chaque dataset (train, validation et test)
  - Config.cfg : fichier à remplir pour définir tous les paramètres (nombre de filtre, taux de dropout, type de couche, ...)
 
-**3. Commande lancement Linux **
+**3. Commande lancement Linux**
+
 python main.py Config.cfg
 
 ## MoraineClassification
